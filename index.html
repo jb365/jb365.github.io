@@ -1,8 +1,17 @@
 ---
-layout: default
+layout: main
 ---
-<body>
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; line-height: 41.0px; font: 36.0px Courier; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>Jailbreak365’s Cydia Repo</b></span></h1>
-<p class="p2"><span class="s1">Control center modules and more</span></p>
-<p class="p3"><span class="s1"><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jb365.github.io/">Add to Cydia</a></span></p>
-</body>
+
+{% for post in paginator.posts %}
+  <div class="chapter">
+    <a href="{{post.url | prepend: site.baseurl}}">
+      {% if post.img %}
+      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+      {% endif %}
+    </a>
+    <div class="chapter_inner">
+      <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+      <h3 class="chapter_title">{{post.title}}</h3>
+    </div>
+  </div>
+{% endfor %}
