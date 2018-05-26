@@ -64,16 +64,17 @@ name: CCModules (Safe, Uses Silo/CCSupport)
 author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.2-4
-Section: Tweaks
-Maintainer: jailbreak365 <jailbreak365@mail.com>
+Version: 1.2-9
+Section: Addons (ControlCenter)
+Maintainer: Bjailbreak365 <jailbreak365@mail.com>
+Depends: com.opa334.ccsupport
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.safeccmodules_1.2-4_iphoneos-arm.deb
-Size: 1480330
-MD5sum: 42d016fbc9080ce8790bada8d4aeb414
-Description: Control center modules for third party applications and utility actions. Requires Silo/CCSupport. New in CCModules v1.2-4: Respring and UICache modules. Lock module next.
+Filename: debs//com.jailbreak365.safeccmodules_1.2-9_iphoneos-arm.deb
+Size: 1347604
+MD5sum: 69459933bdab345a5438f1c1d0f663ce
+Description: Control center modules for iOS 11. Requires CCSupport.
 dev: jailbreak365
-name: CCModules (Safe, Uses Silo/CCSupport)
+name: CCModules
 author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.tinyairplay
