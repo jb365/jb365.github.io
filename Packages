@@ -8,8 +8,8 @@ Size: 27704
 MD5sum: 0ef46656164a56fe6a0ec780eb7df9fe
 Description: Apollo Module with the old icon.
 dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
 name: Apollo Module Legacy (Uses Silo)
+author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.CCModules
 Version: 1.6-3
@@ -21,8 +21,8 @@ Size: 847988
 MD5sum: 8f7ca7c5f4bae1fc55d92252d2dda55e
 Description: This version of CCModules is no longer supported. Please use CCModules (Safe, Uses Silo) in the Tweaks section from now on.
 dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
 name: CCModules (Depreciated)
+author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.ModuleWhitelist
 Version: 1.6-3
@@ -34,8 +34,8 @@ Size: 1946
 MD5sum: 870cd5514f7a58960c6e17b60051d73e
 Description: Whitelist for the modules. DO NOT REMOVE. This is not required if you are using Safe CCModules (Uses Silo)
 dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
 name: Module Whitelist
+author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.MuteModule
 Version: 1.0
@@ -47,22 +47,21 @@ Size: 16876
 MD5sum: 57f14a48ed903176d3b770d87cd48541
 Description: Simple mute module. Requires Silo.
 dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
 name: Mute Module
+author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.2-10
+Version: 1.2-11
 Section: Addons (ControlCenter)
 Maintainer: jailbreak365 <jailbreak365@mail.com>
-Depends: com.opa334.ccsupport
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.safeccmodules_1.2-10_iphoneos-arm.deb
-Size: 1335946
-MD5sum: b364cb83ee3440482869e04798881f27
-Description: Control center modules for iOS 11. Requires CCSupport.
+Filename: debs//com.jailbreak365.safeccmodules_1.2-11_iphoneos-arm.deb
+Size: 1330024
+MD5sum: 8b33cb59b9e473c1ae340d3cef7f3d1b
+Description: Control center modules for iOS 11.
 dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
 name: CCModules
+author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.tinyairplay
 Version: 1.0
@@ -74,6 +73,6 @@ Size: 40440
 MD5sum: a9c8346e4f48de235d10f7167301c4b8
 Description: Tiny Airplay module (no text).
 dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
 name: Tiny AirPlay Module
+author: jailbreak365 <jailbreak365@mail.com>
 
