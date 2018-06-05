@@ -51,13 +51,13 @@ name: Mute Module
 author: jailbreak365 <jailbreak365@mail.com>
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.2-11
+Version: 1.2-12
 Section: Addons (ControlCenter)
 Maintainer: jailbreak365 <jailbreak365@mail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.safeccmodules_1.2-11_iphoneos-arm.deb
-Size: 1330024
-MD5sum: 8b33cb59b9e473c1ae340d3cef7f3d1b
+Filename: debs//com.jailbreak365.safeccmodules_1.2-12_iphoneos-arm.deb
+Size: 1377214
+MD5sum: ee82c13b4d9b68a42de8d6e658c0a9a2
 Description: Control center modules for iOS 11.
 dev: jailbreak365
 name: CCModules
