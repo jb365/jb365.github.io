@@ -73,14 +73,14 @@ Author: jailbreak365
 Name: AssistiveTouchX
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.3
+Version: 1.3-1
 Architecture: iphoneos-arm
 Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.safeccmodules_1.3_iphoneos-arm.deb
-Size: 1136172
-MD5sum: bda54925c1a530da667b46b75a1f1350
-SHA1: ee63e55af8426f9171c351eb8e195aa1e423fabe
-SHA256: bef4f3428481478fe7ec17fe850868ca48176a8fcf91c2a22706d36404208a51
+Filename: debs/com.jailbreak365.safeccmodules_1.3-1_iphoneos-arm.deb
+Size: 1125380
+MD5sum: 30738fc1fcdb41fba43690be6aae5073
+SHA1: a5b47cf0fa6a83f250f8cfb19110b914e7cd2507
+SHA256: eae06cb25b59fc5635fb75ad3e210607fb4946b512800983dd52bd0ab099c285
 Section: Addons (ControlCenter)
 Description: Control center modules for iOS 11.
 Author: jailbreak365 <jailbreak365@mail.com>
