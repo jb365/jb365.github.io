@@ -73,16 +73,16 @@ Author: jailbreak365
 Name: AssistiveTouchX
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.3-2
+Version: 1.3-3
 Architecture: iphoneos-arm
 Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.safeccmodules_1.3-2_iphoneos-arm.deb
-Size: 1140920
-MD5sum: 54ad14b38a6d6bd1f97b7e2bf7e9ea82
-SHA1: f51211e550706d8934a9b86169bed768bcfdf5d0
-SHA256: d4745d79c15608e3b7d142e7e9b17dd4b03f783cd353cf76bf2fa2d7a290025f
+Filename: debs/com.jailbreak365.safeccmodules_1.3-3_iphoneos-arm.deb
+Size: 1146300
+MD5sum: 94dfc162417b8660ae3d696459866f4e
+SHA1: d56f1add4019454292542584dc0bbcddb10386db
+SHA256: 8afe7855a8bfe5dda858d61e686dd4a36793759f04e6623e93fb1554f6e29d11
 Section: Addons (ControlCenter)
-Description: Control center modules for iOS 11. New in v1.3-2: Added Weather Channel module.
+Description: Control center modules for iOS 11. New in v1.3-3: Substrate compatibility and Activator app module.
 Author: jailbreak365 <jailbreak365@mail.com>
 Dev: jailbreak365
 Name: CCModules
