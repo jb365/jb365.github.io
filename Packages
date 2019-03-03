@@ -76,13 +76,12 @@ Package: com.jailbreak365.reachabilityactivator
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: jailbreak365 <jailbreak365@mail.com>
-Installed-Size: 136
 Depends: mobilesubstrate
 Filename: debs/com.jailbreak365.reachabilityactivator_1.0.0_iphoneos-arm.deb
-Size: 3028
-MD5sum: d64c6ed2755465e4204a3ba31dcd2a34
-SHA1: d77885569b0035ce0c74aa1444601c0e73fa3953
-SHA256: 9bd64cca11fe5b6c0ea66d81fb0f2aa89d00dae2653faa7c939751dfe8a71eaa
+Size: 3012
+MD5sum: 8431ebe1701094776139a6483055547c
+SHA1: 6b04a27b3f54289606ebdd904570ab68a4e8f3f2
+SHA256: be07d063933a0d4b3b9fa714dfe8a86ec8d7f4ad098cc863a9737e75440e3360
 Section: Tweaks
 Description: Activate reachability on unsupported devices.
 Author: jailbreak365 <jailbreak365@mail.com>
