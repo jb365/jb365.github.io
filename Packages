@@ -72,6 +72,23 @@ Description: AssistiveTouchX replaces the default Assistive Touch icons with the
 Author: jailbreak365
 Name: AssistiveTouchX
 
+Package: com.jailbreak365.reachabilityactivator
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.reachabilityactivator_1.0.0_iphoneos-arm.deb
+Size: 3028
+MD5sum: d64c6ed2755465e4204a3ba31dcd2a34
+SHA1: d77885569b0035ce0c74aa1444601c0e73fa3953
+SHA256: 9bd64cca11fe5b6c0ea66d81fb0f2aa89d00dae2653faa7c939751dfe8a71eaa
+Section: Tweaks
+Description: Activate reachability on unsupported devices.
+Author: jailbreak365 <jailbreak365@mail.com>
+Dev: jailbreak365
+Name: Reachability Activator
+
 Package: com.jailbreak365.safeccmodules
 Version: 1.3-3
 Architecture: iphoneos-arm
