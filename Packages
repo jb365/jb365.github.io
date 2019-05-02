@@ -1,3 +1,19 @@
+Package: com.ioscreatix.twig
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.ioscreatix.twig_1.0.2_iphoneos-arm.deb
+Size: 5828
+MD5sum: 43fc38ea976f09637f8aa982c0668e0e
+SHA1: 3ed6d14122fecd8b0f7d9a04ed29d4865b200471
+SHA256: 5f63cc0b245a0699fcf8d04f1305b3e37c71bef4a609f8b73d95035f1f761938
+Section: Tweaks
+Description: Twig for arm64e/A12.
+Author: iOS Creatix
+Name: Twig
+
 Package: com.jailbreak365.ApolloLegacy
 Version: 1.0
 Architecture: iphoneos-arm
