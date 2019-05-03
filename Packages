@@ -105,16 +105,16 @@ Dev: jailbreak365
 Name: Reachability Activator
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.4
+Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.safeccmodules_1.4_iphoneos-arm.deb
-Size: 1082140
-MD5sum: 70fa4e012c8067369e7e4a9aca3b9a58
-SHA1: 937eb6de07187f9f2b3700c2e64802c6fb56d215
-SHA256: 490fbc97cb30001dc01f470df4ecd2d5423aa56d4738ee16698b781058cd5237
+Filename: debs/com.jailbreak365.safeccmodules_1.4-2_iphoneos-arm.deb
+Size: 1090700
+MD5sum: 9b33bf9d81de6e9db267e093a428592d
+SHA1: 5cd30c417fc93699468750976e7c5b5c7ba09730
+SHA256: ad420c112f02f8f5f7f01d786d9b8d8c45999962044cac5a07be04091f66b3d2
 Section: Addons (ControlCenter)
-Description: Control center modules for iOS 11. New in v1.4: arm64e/A12 compatibility, minor changes to the modules, and a Low Power Mode module for the iPad.
+Description: Control center modules for iOS 11. New in v1.4-2: Added Screenshot module, fixed Mute Module, and overwrites the bad "v1.4-1" deb.
 Author: jailbreak365 <jailbreak365@mail.com>
 Dev: jailbreak365
 Name: CCModules
