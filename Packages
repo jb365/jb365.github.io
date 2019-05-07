@@ -1,19 +1,3 @@
-Package: com.ioscreatix.twig
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: jailbreak365
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: debs/com.ioscreatix.twig_1.0.2_iphoneos-arm.deb
-Size: 5828
-MD5sum: 43fc38ea976f09637f8aa982c0668e0e
-SHA1: 3ed6d14122fecd8b0f7d9a04ed29d4865b200471
-SHA256: 5f63cc0b245a0699fcf8d04f1305b3e37c71bef4a609f8b73d95035f1f761938
-Section: Tweaks
-Description: Twig for arm64e/A12.
-Author: iOS Creatix
-Name: Twig
-
 Package: com.jailbreak365.ApolloLegacy
 Version: 1.0
 Architecture: iphoneos-arm
@@ -165,20 +149,4 @@ Description: Tiny Airplay module (no text).
 Author: jailbreak365 <jailbreak365@mail.com>
 Dev: jailbreak365
 Name: Tiny AirPlay Module
-
-Package: com.jailbreak365.weathervane
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Installed-Size: 268
-Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.weathervane_1.0.0_iphoneos-arm.deb
-Size: 22184
-MD5sum: 3b20815134f8b8f9ad464005e640041c
-SHA1: 714dcea0e2aa454979e8ef9548dba288c38995ff
-SHA256: 18db0f610e9bdaa39cac36fe2f33c837e39af172cb62a3f0e7942a8fa7956729
-Section: Tweaks
-Description: Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11. Updated for arm64e/A12.
-Author: iOS Creatix
-Name: WeatherVane (A12)
 
