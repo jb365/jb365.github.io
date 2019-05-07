@@ -88,6 +88,22 @@ Description: Open reddit links in Apollo without libOpener. Updated for arm64e/A
 Author: KayFam
 Name: AutoApollo2 (A12)
 
+Package: com.jailbreak365.darkremindnotes
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.darkremindnotes_1.0.0_iphoneos-arm.deb
+Size: 8200
+MD5sum: 8cfec740aab02d4ed3a89437b4dd2c61
+SHA1: ab9548f99b90aa2ce4059e78ed401d4e8106de45
+SHA256: d59c809d2578243efce0e62acd4322e28abbd4dcd3a64c99b15d0c4a8e132b27
+Section: Tweaks
+Description: A lovely OLED friendly dark mode for the Notes, and in the near future for Reminders as well.
+Author: jailbreak365 <jailbreak365@mail.com>
+Name: Dark RemindNotes
+
 Package: com.jailbreak365.pushforapollo
 Version: 1.0.0
 Architecture: iphoneos-arm
