@@ -88,6 +88,38 @@ Description: AssistiveTouchX replaces the default Assistive Touch icons with the
 Author: jailbreak365
 Name: AssistiveTouchX
 
+Package: com.jailbreak365.autoapollo2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.autoapollo2_1.0.0_iphoneos-arm.deb
+Size: 7360
+MD5sum: ff68b4848a3827868885e184297cd08e
+SHA1: 7e03748e9795c70bb455a32c3abd8898b81a2aed
+SHA256: 013b91973bd4f7aad950fe44ddd669c22e393fcd115ff3548cca24addf57d4e3
+Section: Tweaks
+Description: Open reddit links in Apollo without libOpener. Updated for arm64e/A12. Disclaimer: This has been tested minimally on an A12 device, and may or may not crash applications. Use at your own risk.
+Author: KayFam
+Name: AutoApollo2 (A12)
+
+Package: com.jailbreak365.pushforapollo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.pushforapollo_1.0.0_iphoneos-arm.deb
+Size: 4196
+MD5sum: 5a5d3672c692e9f4301a92fa82ebb33a
+SHA1: c4074ae1dff8d1126281f0ccc07b9c9d7449d2e0
+SHA256: b1720194bbff29725a4514200841cce9e6fad5dc4f11e993451497fb3b769b04
+Section: Tweaks
+Description: Reddit Notifications to Apollo Notifications. Updated for arm64e/A12.
+Author: eclair4151
+Name: Push For Apollo
+
 Package: com.jailbreak365.reachabilityactivator
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -133,4 +165,20 @@ Description: Tiny Airplay module (no text).
 Author: jailbreak365 <jailbreak365@mail.com>
 Dev: jailbreak365
 Name: Tiny AirPlay Module
+
+Package: com.jailbreak365.weathervane
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.weathervane_1.0.0_iphoneos-arm.deb
+Size: 22184
+MD5sum: 3b20815134f8b8f9ad464005e640041c
+SHA1: 714dcea0e2aa454979e8ef9548dba288c38995ff
+SHA256: 18db0f610e9bdaa39cac36fe2f33c837e39af172cb62a3f0e7942a8fa7956729
+Section: Tweaks
+Description: Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11. Updated for arm64e/A12.
+Author: iOS Creatix
+Name: WeatherVane (A12)
 
