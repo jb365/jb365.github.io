@@ -47,16 +47,16 @@ Author: jailbreak365
 Name: VoiceOverSwitch
 
 Package: com.jailbreak365.volumemusiccontrols
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.volumemusiccontrols_0.0.3_iphoneos-arm.deb
-Size: 7116
-MD5sum: 69d39799154d51245455261b549d2ef6
-SHA1: 19c8a6c282479e1aec5b22b03eed14fc46f8fdf6
-SHA256: c4e5338b6bb65c87e8d579cb2321adb777658490b117676f0dcc834166dba331
+Filename: debs/com.jailbreak365.volumemusiccontrols_0.0.4_iphoneos-arm.deb
+Size: 7192
+MD5sum: b69eca797a934805ad3d27462e663f6f
+SHA1: a8d2b9a9df15ccf584c77fa58460868f26640373
+SHA256: 4865898a974324760affc7602faa413f66503011d5940a3111e873074be97b1e
 Section: Tweaks
 Description: Use the volume keys to skip song, go to previous song, or pause the song (and more).
 Author: jailbreak365
