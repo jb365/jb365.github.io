@@ -1,3 +1,19 @@
+Package: com.jailbreak365.buttoncontrols
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.buttoncontrols_0.0.1_iphoneos-arm.deb
+Size: 9768
+MD5sum: 72de810a7d4e5bbcb38da869f857e6c8
+SHA1: 1079247af9dc07b55c0a2e353eee2cfbf6f2d210
+SHA256: 7e5d666028db92feb9bde503f8358c9a112c897695c4a768ed98c963a4c00d4d
+Section: Tweaks
+Description: Various controls for the hardware buttons.
+Author: jailbreak365
+Name: ButtonControls
+
 Package: com.jailbreak365.nonotificationwake
 Version: 1.0.0
 Architecture: iphoneos-arm
