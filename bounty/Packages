@@ -1,14 +1,14 @@
 Package: com.jailbreak365.buttoncontrols
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
-Installed-Size: 136
+Installed-Size: 272
 Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.buttoncontrols_0.0.1_iphoneos-arm.deb
-Size: 9768
-MD5sum: 72de810a7d4e5bbcb38da869f857e6c8
-SHA1: 1079247af9dc07b55c0a2e353eee2cfbf6f2d210
-SHA256: 7e5d666028db92feb9bde503f8358c9a112c897695c4a768ed98c963a4c00d4d
+Filename: debs/com.jailbreak365.buttoncontrols_0.0.2_iphoneos-arm.deb
+Size: 13516
+MD5sum: f391caa249368a470ec8fb6177ddd66c
+SHA1: f446b664d8820061d6a2c98387d3b56574ef1fef
+SHA256: 95ecf92780ff9f4f869f1cd728b6612e7e97d9c5be39580736a9eade5324e009
 Section: Tweaks
 Description: Various controls for the hardware buttons.
 Author: jailbreak365
@@ -29,38 +29,6 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: jailbreak365
 Name: NoNotificationWake
-
-Package: com.jailbreak365.timespeech
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: jailbreak365
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.timespeech_0.0.2_iphoneos-arm.deb
-Size: 4812
-MD5sum: 896c5bb800ec25086d2858dd89bc0680
-SHA1: 6af41be9f2f1b4c6010ade22a707d9b806f8d97f
-SHA256: 02714c46cf0aca9896647fbe48efea34912a447f6e2fc56f2c78ffa3887887a4
-Section: Tweaks
-Description: Speak time and weather when short holding the side button on the lock screen.
-Author: jailbreak365
-Name: TimeSpeech
-
-Package: com.jailbreak365.voiceoverswitch
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: jailbreak365
-Installed-Size: 272
-Depends: mobilesubstrate, com.a3tweaks.flipswitch
-Filename: debs/com.jailbreak365.voiceoverswitch_0.0.1_iphoneos-arm.deb
-Size: 6096
-MD5sum: dfadabc17b2fc10976699769f40efc68
-SHA1: 0454c0f5a436daeab0121a92d89898849e98d0a8
-SHA256: c47eb97e0bb851d6c00b81ce4cf444ec298a9e36f2f1ea61062771d741c472dd
-Section: Tweaks
-Description: Enable/disable VoiceOver using the ringer switch.
-Author: jailbreak365
-Name: VoiceOverSwitch
 
 Package: com.jailbreak365.volumemusiccontrols
 Version: 0.0.4
