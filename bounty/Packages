@@ -14,6 +14,22 @@ Description: Various controls for the hardware buttons.
 Author: jailbreak365
 Name: ButtonControls
 
+Package: com.jailbreak365.darkhangouts
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.darkhangouts_0.0.4_iphoneos-arm.deb
+Size: 9610
+MD5sum: 6becf1efeb549524d8748a600ac19335
+SHA1: 84b14975c1c2152ffde101653a26d74ce194f489
+SHA256: b68042ed0f3f86d9e236a7d58dcb46938a0a0d98447357c5a3678b179e07f746
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: jailbreak365
+Name: DarkHangouts
+
 Package: com.jailbreak365.nonotificationwake
 Version: 1.0.0
 Architecture: iphoneos-arm
