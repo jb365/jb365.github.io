@@ -1,14 +1,14 @@
 Package: com.jailbreak365.buttoncontrols
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
 Installed-Size: 272
 Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.buttoncontrols_0.0.2_iphoneos-arm.deb
-Size: 13516
-MD5sum: f391caa249368a470ec8fb6177ddd66c
-SHA1: f446b664d8820061d6a2c98387d3b56574ef1fef
-SHA256: 95ecf92780ff9f4f869f1cd728b6612e7e97d9c5be39580736a9eade5324e009
+Filename: debs/com.jailbreak365.buttoncontrols_0.0.3_iphoneos-arm.deb
+Size: 12920
+MD5sum: a8f30a553ca9238ea4494103025d8de2
+SHA1: b3588dc3ef313f3b9c81eae02e63ad781df85a6c
+SHA256: 28d9b5d0e7795601d1ec6bf3bf1aa0d8b5d17af63fbecc459170a6dec46f0db5
 Section: Tweaks
 Description: Various controls for the hardware buttons.
 Author: jailbreak365
