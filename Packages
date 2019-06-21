@@ -88,6 +88,22 @@ Description: Open reddit links in Apollo without libOpener. Updated for arm64e/A
 Author: KayFam
 Name: AutoApollo2 (A12)
 
+Package: com.jailbreak365.autowall
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 308
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.autowall_1.0.0_iphoneos-arm.deb
+Size: 23714
+MD5sum: 22f1c882d0079e3765ec019986156a15
+SHA1: a3f672f658be6ab0705a50a7684416fad71e02f8
+SHA256: 21797e891c5a296e1a0e7fe149d1d70a420be944c898b047a0dbb5c57b4dbf75
+Section: Tweaks
+Description: Cycle through wallpapers.
+Author: julioverne
+Name: AutoWall (A12)
+
 Package: com.jailbreak365.darkremindnotes
 Version: 1.0.0
 Architecture: iphoneos-arm
