@@ -30,6 +30,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: jailbreak365
 Name: DarkHangouts
 
+Package: com.jailbreak365.lowpowercharge
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.lowpowercharge_1.0.0_iphoneos-arm.deb
+Size: 3128
+MD5sum: 1a837c5ae9d5206bb03678bc643dc4be
+SHA1: b7c9e52e49013436c53d03c141a5693ff227bb7b
+SHA256: e45aead1fe4a893f55a5c34f10c51acca1b59cb74685c7336d638530c7e01715
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: jailbreak365
+Name: LowPowerCharge
+
 Package: com.jailbreak365.nonotificationwake
 Version: 1.0.0
 Architecture: iphoneos-arm
