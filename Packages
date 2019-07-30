@@ -120,6 +120,22 @@ Description: A lovely OLED friendly dark mode for the Notes, and in the near fut
 Author: jailbreak365 <jailbreak365@mail.com>
 Name: Dark RemindNotes
 
+Package: com.jailbreak365.gravity
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 472
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.gravity_1.0.0_iphoneos-arm.deb
+Size: 62090
+MD5sum: 2d5fa161e82d7ddf34a62748ee77783e
+SHA1: a0720694fa2f10973b13f9cc4e82ebf035010e73
+SHA256: 3bddf02f43298ccffc37af9dd8fa516ca8dba487d3a053abb934b152edf3bb52
+Section: Tweaks
+Description: Gravity for your app icons.
+Author: julioverne
+Name: Gravity (A12)
+
 Package: com.jailbreak365.pushforapollo
 Version: 1.0.0
 Architecture: iphoneos-arm

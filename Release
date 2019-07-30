@@ -5,5 +5,6 @@ Version: 1.0
 Codename: jailbreak365srepo
 Architectures: iphoneos-arm
 Components: main
+Description: jailbreak365's Cydia Repository
 Icon: file://CydiaIcon.png
 
