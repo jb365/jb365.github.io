@@ -1,63 +1,3 @@
-Package: com.jailbreak365.ApolloLegacy
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.apollolegacy_1.0_iphoneos-arm.deb
-Size: 27704
-MD5sum: 0ef46656164a56fe6a0ec780eb7df9fe
-SHA1: 65bf0b55bebd5890885b0608238f18a1d4ad7733
-SHA256: f7b7cf869de6cead000632eca53b98c4922ada3e2de393e8ba289b8a40b65729
-Section: Tweaks
-Description: Apollo Module with the old icon.
-Author: jailbreak365 <jailbreak365@mail.com>
-Dev: jailbreak365
-Name: Apollo Module Legacy (Uses Silo)
-
-Package: com.jailbreak365.CCModules
-Version: 1.6-3
-Architecture: iphoneos-arm
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.ccmodules_1.6-3_iphoneos-arm.deb
-Size: 847988
-MD5sum: 8f7ca7c5f4bae1fc55d92252d2dda55e
-SHA1: 2b2372d084a65eee3f8d6eb416e04ff23a86e09a
-SHA256: 08ad5b8d8632cbff3f240e1b4c6b8550cbc98daf102d2fb178647d1f40ac3d78
-Section: Tweaks
-Description: This version of CCModules is no longer supported. Please use CCModules (Safe, Uses Silo) in the Tweaks section from now on.
-Author: jailbreak365 <jailbreak365@mail.com>
-Dev: jailbreak365
-Name: CCModules (Depreciated)
-
-Package: com.jailbreak365.ModuleWhitelist
-Version: 1.6-3
-Architecture: iphoneos-arm
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.modulewhitelist_1.6-3_iphoneos-arm.deb
-Size: 1946
-MD5sum: 870cd5514f7a58960c6e17b60051d73e
-SHA1: cd61f5e7de958c6b4002ad9d35efb36f0801c6f9
-SHA256: 417fb7e60df91b7d68b3ffe90b4ee0a0dbed884d5a6e19f723bdac4780fd8a07
-Section: Utilities
-Description: Whitelist for the modules. DO NOT REMOVE. This is not required if you are using Safe CCModules (Uses Silo)
-Author: jailbreak365 <jailbreak365@mail.com>
-Dev: jailbreak365
-Name: Module Whitelist
-
-Package: com.jailbreak365.MuteModule
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.mutemodule_1.0_iphoneos-arm.deb
-Size: 16876
-MD5sum: 57f14a48ed903176d3b770d87cd48541
-SHA1: 3f8740b2c87a281a927baf97265589bcddbd9c8b
-SHA256: 6f506d99e0359b8c38e28b5d411f6affa21d30371934264fa741a24dd0af4848
-Section: Tweaks
-Description: Simple mute module. Requires Silo.
-Author: jailbreak365 <jailbreak365@mail.com>
-Dev: jailbreak365
-Name: Mute Module
-
 Package: com.jailbreak365.assistivetouchx
 Version: 1.0
 Architecture: iphoneos-arm
@@ -136,6 +76,22 @@ Description: Gravity for your app icons.
 Author: julioverne
 Name: Gravity (A12)
 
+Package: com.jailbreak365.hidebatterypercentage
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.hidebatterypercentage_1.0.0_iphoneos-arm.deb
+Size: 2892
+MD5sum: 1c6ac30fb8f5879db15c303e39e2df2d
+SHA1: 6a429238ce25cbbf0c23afd059f37fa201710e7d
+SHA256: 86d022105e91cdaecbf32eaecfe4b75d32bc94d58ac386393bf07255e1d39501
+Section: Tweaks
+Description: Hide the battery percentage symbol in the status bar.
+Author: jailbreak365
+Name: HideBatteryPercentage
+
 Package: com.jailbreak365.pushforapollo
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -182,19 +138,4 @@ Description: Control center modules for iOS 11/12. New in v1.4-3: Added SBReload
 Author: jailbreak365 <jailbreak365@mail.com>
 Dev: jailbreak365
 Name: CCModules
-
-Package: com.jailbreak365.tinyairplay
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.tinyairplay_1.0_iphoneos-arm.deb
-Size: 40440
-MD5sum: a9c8346e4f48de235d10f7167301c4b8
-SHA1: 8ca3e27a28dea84dd40c6343cefdca942d5a0f0c
-SHA256: f5a1a5a8c0192c1c2ba66ec7bbf6cc84834f2e6acfc586952dfe354145493405
-Section: Tweaks
-Description: Tiny Airplay module (no text).
-Author: jailbreak365 <jailbreak365@mail.com>
-Dev: jailbreak365
-Name: Tiny AirPlay Module
 
