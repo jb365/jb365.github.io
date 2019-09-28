@@ -44,6 +44,22 @@ Description: Cycle through wallpapers.
 Author: julioverne
 Name: AutoWall (A12)
 
+Package: com.jailbreak365.centerbadge
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.centerbadge_1.0.0_iphoneos-arm.deb
+Size: 2294
+MD5sum: 26c3de15ba5a4935f3f063553ea1d3ae
+SHA1: 8976926859148baecdf80e66f76e1cba010a7812
+SHA256: fde020b5597ad4ee4f4eb3936c01e8b3ec884ca73883a5fe1b781e4e59b3e70d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: jailbreak365
+Name: CenterBadge
+
 Package: com.jailbreak365.darkremindnotes
 Version: 1.0.0
 Architecture: iphoneos-arm
