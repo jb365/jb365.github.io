@@ -108,6 +108,22 @@ Description: Hide the battery percentage symbol in the status bar.
 Author: jailbreak365
 Name: HideBatteryPercentage
 
+Package: com.jailbreak365.hidelsmediacontrols
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.hidelsmediacontrols_1.0.0_iphoneos-arm.deb
+Size: 2398
+MD5sum: 438e1d5aa120f976def01ab834abe000
+SHA1: ffa2478911dfcea74c53d1d45bc53c4bd2a6972c
+SHA256: 1d8ff4494578a74add8327bac3b4d43bab9cacab6757321807a6ca2a9c834b18
+Section: Tweaks
+Description: Hide the media controls/now playing view on the lock screen and notification center. Compatible with iOS 11/12.
+Author: jailbreak365
+Name: HideLSMediaControls
+
 Package: com.jailbreak365.pushforapollo
 Version: 1.0.0
 Architecture: iphoneos-arm
