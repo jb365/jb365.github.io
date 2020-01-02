@@ -157,16 +157,16 @@ Dev: jailbreak365
 Name: Reachability Activator
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.5
+Version: 1.5-1
 Architecture: iphoneos-arm
 Maintainer: jailbreak365 <jailbreak365@mail.com>
-Filename: debs/com.jailbreak365.safeccmodules_1.5_iphoneos-arm.deb
-Size: 1131632
-MD5sum: b6a25d4e02122e4e9b245641931e2806
-SHA1: 2931e3555d438c55424df989231b1d81c215c323
-SHA256: 86d12d962396af58bd97c44a02b4e704f2523ae8f982eecea8a9ec94c3985790
+Filename: debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm.deb
+Size: 1127204
+MD5sum: 05138418e9b9d060813b5708bb47cd95
+SHA1: bec6a4fa62d5fbd0ceb8e7798858a7b48959f816
+SHA256: f385f0f9ca371b8111b0eb1b859bcfbed61de9314ddf2d2a879008cd12a52a2a
 Section: Addons (ControlCenter)
-Description: Control center modules for iOS 11/12/13. New in v1.5: Full iOS 13 support, added Books and Shortcuts modules, and minor bug fixes.
+Description: Control center modules for iOS 11/12/13. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
 Author: jailbreak365 <jailbreak365@mail.com>
 Dev: jailbreak365
 Name: CCModules
