@@ -15,16 +15,16 @@ Author: jailbreak365
 Name: ButtonControls
 
 Package: com.jailbreak365.darkhangouts
-Version: 0.0.6-1
+Version: 0.0.7
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.darkhangouts_0.0.6-1_iphoneos-arm.deb
-Size: 15152
-MD5sum: bb64b3c5cf2b737eb7f554379490a1ff
-SHA1: 4af6e2234a59a8c32bef5a2c31ee7633e9cbe842
-SHA256: 2473b0a8d113d68aa8bf28c85a4aa5ff8e6194155c1438735b272bd1d8e4a966
+Filename: debs/com.jailbreak365.darkhangouts_0.0.7_iphoneos-arm.deb
+Size: 15576
+MD5sum: bea4c43ce42f92f44f2f2a70f13c53dc
+SHA1: a44710af5533593710578927b997ac8caabef7a3
+SHA256: 8ac1ef777d39abee198abbffd9befff4b206fa3a4b7954a8892d5a42ed6f7d44
 Section: Tweaks
 Description: Dark mode for Google Hangouts.
 Author: jailbreak365
