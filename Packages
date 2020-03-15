@@ -1,191 +1,219 @@
 Package: com.jailbreak365.assistivetouchx
 Version: 1.0
-Section: Tweaks
-Maintainer: jailbreak365
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.assistivetouchx_1.0_iphoneos-arm.deb
+Maintainer: jailbreak365
+Filename: debs/com.jailbreak365.assistivetouchx_1.0_iphoneos-arm.deb
 Size: 459628
 MD5sum: 893a2b57582b142290a8221ec52974ea
+SHA1: 165f2ad6a012368b5cebd04493d9a7670df1de01
+SHA256: 570324c50ea73aac9af707a437c3a9bb7b9962c546a4033dbd9e6279dba673e4
+Section: Tweaks
 Description: AssistiveTouchX replaces the default Assistive Touch icons with the ones from the iPhone X (makes the Assistive Touch icon round). IMPORTANT: This tweak modifies a system application, while it is safe and tested, install at your own risk.
-author: jailbreak365
-name: AssistiveTouchX
+Author: jailbreak365
+Name: AssistiveTouchX
 
 Package: com.jailbreak365.autoapollo2
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.autoapollo2_1.0.0_iphoneos-arm.deb
-Size: 7360
+Maintainer: jailbreak365 <jailbreak365@mail.com>
 Installed-Size: 140
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.autoapollo2_1.0.0_iphoneos-arm.deb
+Size: 7360
 MD5sum: ff68b4848a3827868885e184297cd08e
+SHA1: 7e03748e9795c70bb455a32c3abd8898b81a2aed
+SHA256: 013b91973bd4f7aad950fe44ddd669c22e393fcd115ff3548cca24addf57d4e3
+Section: Tweaks
 Description: Open reddit links in Apollo without libOpener. Updated for arm64e/A12. Disclaimer: This has been tested minimally on an A12 device, and may or may not crash applications. Use at your own risk.
-author: KayFam
-name: AutoApollo2 (A12)
+Author: KayFam
+Name: AutoApollo2 (A12)
 
 Package: com.jailbreak365.autowall
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.autowall_1.0.0_iphoneos-arm.deb
-Size: 23714
+Maintainer: jailbreak365
 Installed-Size: 308
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.autowall_1.0.0_iphoneos-arm.deb
+Size: 23714
 MD5sum: 22f1c882d0079e3765ec019986156a15
+SHA1: a3f672f658be6ab0705a50a7684416fad71e02f8
+SHA256: 21797e891c5a296e1a0e7fe149d1d70a420be944c898b047a0dbb5c57b4dbf75
+Section: Tweaks
 Description: Cycle through wallpapers.
-author: julioverne
-name: AutoWall (A12)
+Author: julioverne
+Name: AutoWall (A12)
 
 Package: com.jailbreak365.callbuttonsalways
 Version: 1.0.0
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: jailbreak365
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.callbuttonsalways_1.0.0_iphoneos-arm.deb
+Filename: debs/com.jailbreak365.callbuttonsalways_1.0.0_iphoneos-arm.deb
 Size: 4168
 MD5sum: 665316bd2bb54339b0bbe2130d929e65
+SHA1: 2e16c9cd558eef55ff91cf992bb165e10d58ae8a
+SHA256: 493d77d555536606711a8d7cfc62c07a6c5030e75a59db71dddfd0f3c4d4f589
+Section: Tweaks
 Description: Show call buttons instead of swipe to answer.
-author: jailbreak365
-name: CallButtonsAlways
+Author: jailbreak365
+Name: CallButtonsAlways
 
 Package: com.jailbreak365.centerbadge
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.centerbadge_1.0.0_iphoneos-arm.deb
-Size: 2294
+Maintainer: jailbreak365
 Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.centerbadge_1.0.0_iphoneos-arm.deb
+Size: 2294
 MD5sum: 26c3de15ba5a4935f3f063553ea1d3ae
+SHA1: 8976926859148baecdf80e66f76e1cba010a7812
+SHA256: fde020b5597ad4ee4f4eb3936c01e8b3ec884ca73883a5fe1b781e4e59b3e70d
+Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-author: jailbreak365
-name: CenterBadge
+Author: jailbreak365
+Name: CenterBadge
 
 Package: com.jailbreak365.darkremindnotes
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.darkremindnotes_1.0.0_iphoneos-arm.deb
-Size: 8200
+Maintainer: jailbreak365 <jailbreak365@mail.com>
 Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.darkremindnotes_1.0.0_iphoneos-arm.deb
+Size: 8200
 MD5sum: 8cfec740aab02d4ed3a89437b4dd2c61
+SHA1: ab9548f99b90aa2ce4059e78ed401d4e8106de45
+SHA256: d59c809d2578243efce0e62acd4322e28abbd4dcd3a64c99b15d0c4a8e132b27
+Section: Tweaks
 Description: A lovely OLED friendly dark mode for the Notes, and in the near future for Reminders as well.
-author: jailbreak365 <jailbreak365@mail.com>
-name: Dark RemindNotes
+Author: jailbreak365 <jailbreak365@mail.com>
+Name: Dark RemindNotes
 
 Package: com.jailbreak365.gravity
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.gravity_1.0.0_iphoneos-arm.deb
-Size: 62090
+Maintainer: jailbreak365
 Installed-Size: 472
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.gravity_1.0.0_iphoneos-arm.deb
+Size: 62090
 MD5sum: 2d5fa161e82d7ddf34a62748ee77783e
+SHA1: a0720694fa2f10973b13f9cc4e82ebf035010e73
+SHA256: 3bddf02f43298ccffc37af9dd8fa516ca8dba487d3a053abb934b152edf3bb52
+Section: Tweaks
 Description: Gravity for your app icons.
-author: julioverne
-name: Gravity (A12)
+Author: julioverne
+Name: Gravity (A12)
 
 Package: com.jailbreak365.hidebatterypercentage
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.hidebatterypercentage_1.0.0_iphoneos-arm.deb
-Size: 2892
+Maintainer: jailbreak365
 Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.hidebatterypercentage_1.0.0_iphoneos-arm.deb
+Size: 2892
 MD5sum: 1c6ac30fb8f5879db15c303e39e2df2d
+SHA1: 6a429238ce25cbbf0c23afd059f37fa201710e7d
+SHA256: 86d022105e91cdaecbf32eaecfe4b75d32bc94d58ac386393bf07255e1d39501
+Section: Tweaks
 Description: Hide the battery percentage symbol in the status bar.
-author: jailbreak365
-name: HideBatteryPercentage
+Author: jailbreak365
+Name: HideBatteryPercentage
 
 Package: com.jailbreak365.hidelsmediacontrols
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.hidelsmediacontrols_1.0.0_iphoneos-arm.deb
-Size: 2398
+Maintainer: jailbreak365
 Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.hidelsmediacontrols_1.0.0_iphoneos-arm.deb
+Size: 2398
 MD5sum: 438e1d5aa120f976def01ab834abe000
+SHA1: ffa2478911dfcea74c53d1d45bc53c4bd2a6972c
+SHA256: 1d8ff4494578a74add8327bac3b4d43bab9cacab6757321807a6ca2a9c834b18
+Section: Tweaks
 Description: Hide the media controls/now playing view on the lock screen and notification center. Compatible with iOS 11/12.
-author: jailbreak365
-name: HideLSMediaControls
+Author: jailbreak365
+Name: HideLSMediaControls
 
 Package: com.jailbreak365.keepnotifications
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.keepnotifications_1.0.0_iphoneos-arm.deb
-Size: 3382
+Maintainer: jailbreak365
 Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.keepnotifications_1.0.0_iphoneos-arm.deb
+Size: 3382
 MD5sum: b1ffad90fa77b531b1b0e1797e0298ed
+SHA1: a5be12a6f4c739a51817c5681f61865bf9a3e933
+SHA256: b606971968009c16a4a540d1110b75899ee5aa65a09eeb272dc9d60f4cf911f2
+Section: Tweaks
 Description: Keep notifications always visible on lock screen.
-author: jailbreak365
-name: KeepNotifications
+Author: jailbreak365
+Name: KeepNotifications
 
 Package: com.jailbreak365.pushforapollo
 Version: 1.0.0
-Section: Tweaks
-Maintainer: jailbreak365 <jailbreak365@mail.com>
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.pushforapollo_1.0.0_iphoneos-arm.deb
-Size: 4196
+Maintainer: jailbreak365 <jailbreak365@mail.com>
 Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.pushforapollo_1.0.0_iphoneos-arm.deb
+Size: 4196
 MD5sum: 5a5d3672c692e9f4301a92fa82ebb33a
+SHA1: c4074ae1dff8d1126281f0ccc07b9c9d7449d2e0
+SHA256: b1720194bbff29725a4514200841cce9e6fad5dc4f11e993451497fb3b769b04
+Section: Tweaks
 Description: Reddit Notifications to Apollo Notifications. Updated for arm64e/A12.
-author: eclair4151
-name: Push For Apollo
+Author: eclair4151
+Name: Push For Apollo
 
 Package: com.jailbreak365.reachabilityactivator
 Version: 1.0.0
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: jailbreak365 <jailbreak365@mail.com>
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.reachabilityactivator_1.0.0_iphoneos-arm.deb
+Filename: debs/com.jailbreak365.reachabilityactivator_1.0.0_iphoneos-arm.deb
 Size: 3012
 MD5sum: 8431ebe1701094776139a6483055547c
+SHA1: 6b04a27b3f54289606ebdd904570ab68a4e8f3f2
+SHA256: be07d063933a0d4b3b9fa714dfe8a86ec8d7f4ad098cc863a9737e75440e3360
+Section: Tweaks
 Description: Activate reachability on unsupported devices.
-dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
-name: Reachability Activator
+Author: jailbreak365 <jailbreak365@mail.com>
+Dev: jailbreak365
+Name: Reachability Activator
 
 Package: com.jailbreak365.roundedmodules
 Version: 1.0.2
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: jailbreak365
 Depends: mobilesubstrate, com.opa334.ccsupport
-Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.roundedmodules_1.0.2_iphoneos-arm.deb
+Filename: debs/com.jailbreak365.roundedmodules_1.0.2_iphoneos-arm.deb
 Size: 9192
 MD5sum: d66e28419ec6c1dd88faa7f47cffc0f5
+SHA1: 4e1c7293f37b63d1d64a4b9bc5822f50205893ed
+SHA256: a3ec469636d673b35009bc50436a6d18c06d8ed853d6fd10516b68075014ddd5
+Section: Tweaks
 Description: Round your Control Center modules.
-author: jailbreak365
-name: RoundedModules
+Author: jailbreak365
+Name: RoundedModules
 
 Package: com.jailbreak365.safeccmodules
 Version: 1.5-1
-Section: Addons (ControlCenter)
-Maintainer: jailbreak365 <jailbreak365@mail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm.deb
+Maintainer: jailbreak365 <jailbreak365@mail.com>
+Filename: debs/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm.deb
 Size: 1127204
 MD5sum: 05138418e9b9d060813b5708bb47cd95
+SHA1: bec6a4fa62d5fbd0ceb8e7798858a7b48959f816
+SHA256: f385f0f9ca371b8111b0eb1b859bcfbed61de9314ddf2d2a879008cd12a52a2a
+Section: Addons (ControlCenter)
 Description: Control center modules for iOS 11/12/13. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
-dev: jailbreak365
-author: jailbreak365 <jailbreak365@mail.com>
-name: CCModules
+Author: jailbreak365 <jailbreak365@mail.com>
+Dev: jailbreak365
+Name: CCModules
 
