@@ -155,6 +155,36 @@ Description: Keep notifications always visible on lock screen.
 Author: jailbreak365
 Name: KeepNotifications
 
+Package: com.jailbreak365.nohomedelay
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.nohomedelay_1.0.0_iphoneos-arm.deb
+Size: 8028
+MD5sum: 9cafa2c8a659472eb37137c5fe5f667f
+SHA1: f385e0aac35ed2eaafee45ff2f374ee4f01c3e56
+SHA256: f1f5b518809e4bc2bd7f55df787ac2b25e77751843aaeffa1710e44179b4f767
+Section: Tweaks
+Description: Disables triple click home button for accessibility. Also adds settings button to accessibility module. Compatible with iOS 11/12/13.
+Author: jailbreak365
+Name: NoHomeDelay
+
+Package: com.jailbreak365.oledactionbuttons
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.oledactionbuttons_1.0.0_iphoneos-arm.deb
+Size: 6460
+MD5sum: 6f2b933febe8dd7a38f4f08a7fedf5ef
+SHA1: 982f2ef4edec91c1e5f5717f5ffc5f51393e59ae
+SHA256: 833d3757c081eb1c0f338b127d2941d3d42d6f5422867e152db7df55c52c8bfe
+Section: Tweaks
+Description: Turns the action button on the lock screen true black (OLED). Compatible with iOS 13.
+Author: jailbreak365
+Name: OLED Action Buttons
+
 Package: com.jailbreak365.pushforapollo
 Version: 1.0.0
 Architecture: iphoneos-arm
