@@ -1,14 +1,14 @@
 Package: com.jailbreak365.buttoncontrols
-Version: 0.0.5
+Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
-Installed-Size: 272
+Installed-Size: 9640
 Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.buttoncontrols_0.0.5_iphoneos-arm.deb
-Size: 13216
-MD5sum: d4c29e962694066ae98a3ceb2efdabf6
-SHA1: fea337cca0fe156913b5e1ff4a7a3c51f3fa59e5
-SHA256: 1d458a3a7958cf6381c41b00f302f54647385c65d11ae6d0e9e8aea4ad9e9b64
+Filename: debs/com.jailbreak365.buttoncontrols_0.0.6_iphoneos-arm.deb
+Size: 38114
+MD5sum: dfec02f7172c0f8e7021d9392a58260e
+SHA1: 82543606b3e22dbae15a1caae2fdecf2760f7bb9
+SHA256: 993e303c79e9d35c3c9110ec8c9f83f891a415a5361d07c46268ad03fda2d47f
 Section: Tweaks
 Description: Various controls for the hardware buttons.
 Author: jailbreak365
@@ -31,16 +31,16 @@ Author: jailbreak365
 Name: LowPowerCharge
 
 Package: com.jailbreak365.nonotificationwake
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
-Installed-Size: 136
+Installed-Size: 2968
 Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.nonotificationwake_1.0.0_iphoneos-arm.deb
-Size: 2314
-MD5sum: 8886b46b745899444e609fde6c7f5dd8
-SHA1: afcf87ee2a927b3c5f75b6e193e25793a1b971b0
-SHA256: 3ce72dff781944cde61d57983fa58cc6689610cd88785c7435384bf2c82087e8
+Filename: debs/com.jailbreak365.nonotificationwake_1.0.1_iphoneos-arm.deb
+Size: 4312
+MD5sum: 346aba567f401fa65ad6305486f87d5d
+SHA1: ffd74012dc40f1637ce934f8fdaec6be1db3944f
+SHA256: f80a56033a383e74696c3666642f3ddc9ba6bcbe9ef04c48e7d224bc035e803a
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: jailbreak365
