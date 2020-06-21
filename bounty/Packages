@@ -46,6 +46,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: jailbreak365
 Name: NoNotificationWake
 
+Package: com.jailbreak365.nopowerdown
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 3328
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.nopowerdown_1.0.1_iphoneos-arm.deb
+Size: 6056
+MD5sum: 6919cf3ba07ed30ec994826a90430f5b
+SHA1: 83a3c38cabc99fc18d4dc03608d2be1680b8b1e0
+SHA256: 2e8fbe697822c31856221ab33f351d37abbaa2369b680061af67325e3ba8d672
+Section: Tweaks
+Description: Prevents the power down UI on the lockscreen.
+Author: jailbreak365
+Name: NoPowerDown
+
 Package: com.jailbreak365.volumemusiccontrols
 Version: 0.0.4
 Architecture: iphoneos-arm
