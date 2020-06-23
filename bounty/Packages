@@ -78,3 +78,19 @@ Description: Use the volume keys to skip song, go to previous song, or pause the
 Author: jailbreak365
 Name: VolumeMusicControls
 
+Package: com.jailbreak365.youtubenoupdate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 1136
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.youtubenoupdate_1.0.1_iphoneos-arm.deb
+Size: 3746
+MD5sum: 979298e3772b6dcc5e4c3096dbeab53a
+SHA1: 5f316606ad8f3a293f02616d4509ae7047acdc8d
+SHA256: 3096f7196824dde8853364a0c0bffe45d80e06757c0c198aba47493b95562610
+Section: Tweaks
+Description: Allow older versions of YouTube to run without displaying an update popup.
+Author: jailbreak365
+Name: YouTubeNoUpdate
+
