@@ -79,16 +79,16 @@ Author: jailbreak365
 Name: VolumeMusicControls
 
 Package: com.jailbreak365.youtubenoupdate
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
-Installed-Size: 1136
+Installed-Size: 1664
 Depends: mobilesubstrate
-Filename: debs/com.jailbreak365.youtubenoupdate_1.0.1_iphoneos-arm.deb
-Size: 3746
-MD5sum: 979298e3772b6dcc5e4c3096dbeab53a
-SHA1: 5f316606ad8f3a293f02616d4509ae7047acdc8d
-SHA256: 3096f7196824dde8853364a0c0bffe45d80e06757c0c198aba47493b95562610
+Filename: debs/com.jailbreak365.youtubenoupdate_1.0.2_iphoneos-arm.deb
+Size: 5120
+MD5sum: f9c9b01ffc27afe08be1c42d897a5e51
+SHA1: 4aab1596868f568dfad33eca1b5177e0423a922d
+SHA256: b2c9c65d62d60a16f4fe6042105573eb93c5699da562f5974e734a6312435e3f
 Section: Tweaks
 Description: Allow older versions of YouTube to run without displaying an update popup.
 Author: jailbreak365
