@@ -123,6 +123,22 @@ Description: Hide the battery percentage symbol in the status bar.
 Author: jailbreak365
 Name: HideBatteryPercentage
 
+Package: com.jailbreak365.hidehswidgetlabels
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jailbreak365
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.hidehswidgetlabels_1.0.0_iphoneos-arm.deb
+Size: 4434
+MD5sum: f257c2508243cb62077ea1de35a19f64
+SHA1: f0f355eca8fbbda3110a29ed62c017d7bae35100
+SHA256: 3d96f12098bb4dafa4d5cb040d694405ea7ce35b6dadb38615258ae2893537ed
+Section: Tweaks
+Description: Hide widget labels for HSWidgets.
+Author: jailbreak365
+Name: HideHSWidgetsLabels
+
 Package: com.jailbreak365.hidelsmediacontrols
 Version: 1.0.0
 Architecture: iphoneos-arm
