@@ -234,15 +234,16 @@ Dev: jailbreak365
 Name: Reachability Activator
 
 Package: com.jailbreak365.roundedmodules
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: jailbreak365
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.jailbreak365.roundedmodules_1.0.2_iphoneos-arm.deb
-Size: 9192
-MD5sum: d66e28419ec6c1dd88faa7f47cffc0f5
-SHA1: 4e1c7293f37b63d1d64a4b9bc5822f50205893ed
-SHA256: a3ec469636d673b35009bc50436a6d18c06d8ed853d6fd10516b68075014ddd5
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: debs/com.jailbreak365.roundedmodules_1.0.3_iphoneos-arm.deb
+Size: 17584
+MD5sum: 51cbd30adb0689b21ad19645e37b7233
+SHA1: f66720b59d3067483e398d30ad35740b7b6150e5
+SHA256: 94f6a2a4f463321e627deb63c0ebe60fc8f18bb9aebaae90bf0aa9f3758ab0bd
 Section: Tweaks
 Description: Round your Control Center modules.
 Author: jailbreak365
